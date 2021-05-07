@@ -44,6 +44,5 @@ I'm Marcus Vinicius a Software Engineer who loves create things and solve proble
 I work in the area of software development for corporate environments since 2012 with emphasis on the financial area.
 I have a YouTube/Linkedin channel in order to share/aggregate the community.**
 
-  - [![Youtube](https://img.shields.io/badge/-Youtube-red?&logo=Youtube&style=flat-square)](https://www.youtube.com/c/olasoumarcus)
-  - [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?&logo=Linkedin&style=flat-square)](https://www.linkedin.com/in/marcus-vinicius-santana-silva-0a1602117/)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=lowpoc&show_icons=true&theme=dracula)
 
