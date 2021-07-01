@@ -44,5 +44,14 @@ I'm Marcus Vinicius a Software Engineer who loves create things and solve proble
 I work in the area of software development for corporate environments since 2012 with emphasis on the financial area.
 I have a YouTube/Linkedin channel in order to share/aggregate the community.**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lowpoc&show_icons=true&theme=dracula)
+<p align="center">
+  
+  <a href="https://github.com/Lowpoc/github-stats">
+    <img  alt="Marcus Vinicius - GitHub Stats" width="400px" src="https://github.com/lowpoc/github-stats/blob/master/generated/overview.svg" />
+  </a> 
+
+   <a href="https://github.com/Lowpoc/github-stats">
+    <img  alt="Marcus Vinicius - GitHub Stats" width="400px" src="https://github.com/lowpoc/github-stats/blob/master/generated/languages.svg" />
+  </a> 
+</p>
 
