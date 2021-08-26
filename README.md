@@ -5,6 +5,13 @@
 [![GitHub](https://img.shields.io/badge/-@Marcus%20Vinicius-black?logo=GitHub&style=flat-square&link=https://github.com/Lowpoc?tab=repositories)](https://github.com/Lowpoc?tab=repositories)
 
 I'm Marcus Vinicius a Software Engineer who loves create things and solve problems.
+                                                   
+<p align="center">
+
+  <a href="#">
+    <img  alt="Marcus Vinicius - GitHub Stats" width="400px" src="profile.jpg" />
+  </a> 
+</p>
 
 **Here some of my skills:**
 - ![Back-End](https://img.shields.io/badge/-Back--End-black?&logoColor=white&logo=BackEnd&style=flat-square)
