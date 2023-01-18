@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Marcus%20Vinicius-blue?logo=LinkedIn&style=flat-square&link=https://www.linkedin.com/in/vinicius-santana-silva/)](https://www.linkedin.com/in/vinicius-santana-silva/)
 [![YouTube](https://img.shields.io/badge/-Marcus%20Vinicius-c14438?logo=YouTube&style=flat-square&link=https://www.youtube.com/channel/UCDTMgpC_HkyNTo03Yr2pFig)](https://www.youtube.com/c/olasoumarcus)
-[![GitHub](https://img.shields.io/badge/-@Marcus%20Vinicius-black?logo=GitHub&style=flat-square&link=https://github.com/Lowpoc?tab=repositories)](https://github.com/Lowpoc?tab=repositories)
+[![GitHub](https://img.shields.io/badge/-@Marcus%20Vinicius-black?logo=GitHub&style=flat-square&link=https://github.com/MarcusViniciusSS?tab=repositories)](https://github.com/MarcusViniciusSS?tab=repositories)
 [![Twitter](https://img.shields.io/badge/-@Marcus%20Vinicius-black?logo=Twitter&style=flat-square&link=https://twitter.com/MarcusVinSS)](https://twitter.com/MarcusVinSS)
 
 I'm Marcus Vinicius a Software Engineer who loves create things and solve problems.
